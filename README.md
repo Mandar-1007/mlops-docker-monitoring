@@ -1,6 +1,6 @@
 ---
 
-title: cs553-cs1-team20
+title: cs553-cs3-team20
 
 colorFrom: indigo
 
